@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name> LCA Plugin 1.0</Name>
+		<Assembly>LCA_Tool.dll</Assembly>
+		<AddInId>6F0F4821-8800-4833-A10A-CA950BD3DC62</AddInId>
+		<FullClassName>LCA_Tool.Application</FullClassName>
+		<VendorId>Jacobian Dev</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
